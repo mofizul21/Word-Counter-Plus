@@ -77,4 +77,4 @@ Welcome to the first release of the Word Counter Plus plugin! We’re excited to
 
 1. **Dashboard -> Posts -> Word Count column**
 
-   ![Word Count Column](assets/screenshot-1.png)
+   ![Word Count Column](https://github.com/mofizul21/Word-Counter-Plus/assets/10583131/28aa6fb4-8009-4dce-9336-8ca8c65b6199)
